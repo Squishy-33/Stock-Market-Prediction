@@ -1,0 +1,3 @@
+# Stock-Market-Prediction
+This project was part of my Deep Learning course at Sapienza and addresses the issue of cryptocurrency price movements using deep learning methods. Our specific goal was to classify the up and downs movements after each window of 30 minutes period. We trained convolutional neural network (CNN), long short-term memory (LSTM), and Transformer for this task.
+The goal we pursue in this project was to inspect the performance of the mentioned models on price forecasting and recognize unanticipated challenges in working with each of them. The best F1-score we garnered was 61.42 with a multilayer LSTM.
